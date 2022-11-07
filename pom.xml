@@ -195,7 +195,7 @@
 
     <profiles>
         <profile>
-            <id>single</id>
+            <id>sample-test</id>
             <build>
                 <plugins>
                     <plugin>
@@ -216,7 +216,7 @@
         </profile>
 
         <profile>
-            <id>local</id>
+            <id>sample-local-test</id>
             <build>
                 <plugins>
                     <plugin>
@@ -237,7 +237,7 @@
         </profile>
 
         <profile>
-            <id>parallel</id>
+            <id>sample-parallel-test</id>
             <build>
                 <plugins>
                     <plugin>
