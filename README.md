@@ -36,7 +36,7 @@ This repository uses the BrowserStack SDK to run tests on BrowserStack. Follow t
 For example if you are using 
 ```
 @RunWith(CucumberWithSerenity.class)
-@CucumberOptions(features = "src/test/resources/features/single.feature")
+@CucumberOptions(features = "src/test/resources/features/sample.feature")
 ```
 Replace the above code and use the Junit5 code as shown below.
 ```
